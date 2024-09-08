@@ -1,0 +1,14 @@
+C:\Users\jimja\Desktop\c_sharp\hlektriki_energeia\bin\Debug\net8.0\hlektriki_energeia.exe
+C:\Users\jimja\Desktop\c_sharp\hlektriki_energeia\bin\Debug\net8.0\hlektriki_energeia.deps.json
+C:\Users\jimja\Desktop\c_sharp\hlektriki_energeia\bin\Debug\net8.0\hlektriki_energeia.runtimeconfig.json
+C:\Users\jimja\Desktop\c_sharp\hlektriki_energeia\bin\Debug\net8.0\hlektriki_energeia.dll
+C:\Users\jimja\Desktop\c_sharp\hlektriki_energeia\bin\Debug\net8.0\hlektriki_energeia.pdb
+C:\Users\jimja\Desktop\c_sharp\hlektriki_energeia\obj\Debug\net8.0\hlektriki_energeia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimja\Desktop\c_sharp\hlektriki_energeia\obj\Debug\net8.0\hlektriki_energeia.AssemblyInfoInputs.cache
+C:\Users\jimja\Desktop\c_sharp\hlektriki_energeia\obj\Debug\net8.0\hlektriki_energeia.AssemblyInfo.cs
+C:\Users\jimja\Desktop\c_sharp\hlektriki_energeia\obj\Debug\net8.0\hlektriki_energeia.csproj.CoreCompileInputs.cache
+C:\Users\jimja\Desktop\c_sharp\hlektriki_energeia\obj\Debug\net8.0\hlektriki_energeia.dll
+C:\Users\jimja\Desktop\c_sharp\hlektriki_energeia\obj\Debug\net8.0\refint\hlektriki_energeia.dll
+C:\Users\jimja\Desktop\c_sharp\hlektriki_energeia\obj\Debug\net8.0\hlektriki_energeia.pdb
+C:\Users\jimja\Desktop\c_sharp\hlektriki_energeia\obj\Debug\net8.0\hlektriki_energeia.genruntimeconfig.cache
+C:\Users\jimja\Desktop\c_sharp\hlektriki_energeia\obj\Debug\net8.0\ref\hlektriki_energeia.dll

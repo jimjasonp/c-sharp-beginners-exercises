@@ -1,0 +1,14 @@
+C:\Users\jimja\Desktop\c_sharp\dhmos\obj\Debug\net8.0\dhmos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jimja\Desktop\c_sharp\dhmos\obj\Debug\net8.0\dhmos.AssemblyInfoInputs.cache
+C:\Users\jimja\Desktop\c_sharp\dhmos\obj\Debug\net8.0\dhmos.AssemblyInfo.cs
+C:\Users\jimja\Desktop\c_sharp\dhmos\obj\Debug\net8.0\dhmos.csproj.CoreCompileInputs.cache
+C:\Users\jimja\Desktop\c_sharp\dhmos\bin\Debug\net8.0\dhmos.exe
+C:\Users\jimja\Desktop\c_sharp\dhmos\bin\Debug\net8.0\dhmos.deps.json
+C:\Users\jimja\Desktop\c_sharp\dhmos\bin\Debug\net8.0\dhmos.runtimeconfig.json
+C:\Users\jimja\Desktop\c_sharp\dhmos\bin\Debug\net8.0\dhmos.dll
+C:\Users\jimja\Desktop\c_sharp\dhmos\bin\Debug\net8.0\dhmos.pdb
+C:\Users\jimja\Desktop\c_sharp\dhmos\obj\Debug\net8.0\dhmos.dll
+C:\Users\jimja\Desktop\c_sharp\dhmos\obj\Debug\net8.0\refint\dhmos.dll
+C:\Users\jimja\Desktop\c_sharp\dhmos\obj\Debug\net8.0\dhmos.pdb
+C:\Users\jimja\Desktop\c_sharp\dhmos\obj\Debug\net8.0\dhmos.genruntimeconfig.cache
+C:\Users\jimja\Desktop\c_sharp\dhmos\obj\Debug\net8.0\ref\dhmos.dll
